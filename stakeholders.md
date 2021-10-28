@@ -21,6 +21,7 @@ There are list of all stakeholders for the _Farmacy Family_
 | | | Calculation % of fats\carbs\vitamins\... |
 | -- | Medical Clinics | need to be added |
 | -- | Gov regulators | need to be added |
+| -- | Investors | need to be added |
 | Developers | Maintenance Team | Ease of maintaining and developing the system |
 | Admins | Maintenance Team | Ease of monitoring |
 | | | Ease of configuration and scaling |
