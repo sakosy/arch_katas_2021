@@ -6,7 +6,7 @@
 -   [Glossary](https://github.com/sakosy/arch_katas_2021#glossary)
 -   [Overview](https://github.com/sakosy/arch_katas_2021#overview)
 -   [Business Case and Goals](https://github.com/sakosy/arch_katas_2021#business-case-and-goals)
--   [Stakeholders](https://github.com/sakosy/arch_katas_2021#stakeholders)
+-   [Stakeholders](https://github.com/sakosy/arch_katas_2021/blob/main/stakeholders.md)
 -   [System Requirements](https://github.com/sakosy/arch_katas_2021#system-requirements)
     -   [Functional Requirements](https://github.com/sakosy/arch_katas_2021#functional-requirements)
     -   [Architecture Characteristics Requirements](https://github.com/sakosy/arch_katas_2021#architecture-characteristics-requirements)
@@ -29,6 +29,8 @@
 
 ## Overview
 
+FFamily should adds tighter engagement with their customers.
+
 FFamily is an enhancement of the existing FFoods system deals with:
  - products catalog 
  - order management 
@@ -36,9 +38,10 @@ FFamily is an enhancement of the existing FFoods system deals with:
  - payments
  - smart fridges management
  - etc.
+
  FFoods has been designed before, but not developed yet (we play in the "brown fields" and it's possible to submit requirements to FFoods).
- FFamily should adds tighter engagement with their customers.
- And it needs to be aware of seamless integration with FFoods.
+
+ And FFamily needs to be aware of seamless integration with FFoods.
 
 ## Business Case and Goals
 
