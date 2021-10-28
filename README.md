@@ -68,6 +68,20 @@ The desired solution from the functional perspective:
 
 ## System Requirements
 
+### Functional Requirements
+1) Manage customer profiles
+2) Personalization around preferences and dietary needs of the customer
+3) Support geographical trend analysis
+4) Support push and pull models(subscriptions, forums, reference material, class information, and other media)
+5) Support transactional member information
+5) The nutritional company(eDietian) has access to the client's profile
+6) Messaging between a client and dietitian
+7) Customers can add medical information in their profiles 
+8) Customers have the ability to share information with medical service providers
+9) Customers can customize how much profile information they want to allow the community to see
+10) Third party providers(clinics, doctors, etc) have access to more analytical data
+11) A holistic UX for both Foods and Farmacy Family
+
 ## Architecture Decision Records
 
 ## Architecture
