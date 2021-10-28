@@ -1,7 +1,7 @@
 ## The "Farmacy Family" System
 
 **Team:** Elephant on Cycle
-**Team Members:** *Sergey, Natalya, Sattar*
+**Team Members:** *Sergey, Natalya, Sattar, Samvel*
 
 -   [Glossary](https://github.com/sakosy/arch_katas_2021#glossary)
 -   [Overview](https://github.com/sakosy/arch_katas_2021#overview)
