@@ -13,18 +13,16 @@ There are list of all stakeholders for the _Farmacy Family_
 | | | Ease of buying process |
 | | | Be informed about meal ingredients |
 | Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convinient way at same time|
-| Owner | Owner | Attract all type of users |
+| Owner | Operators | Attract all type of users |
 | | | Improve quality of provided food and service |
 | | | Information about users preferences |
 | | | Support for accounting system |
-| Nutritionists | Nutritionists | Search in catalog by specific components |
+| Nutritionists | Dietitian | Search in catalog by specific components |
 | | | Calculation % of fats\carbs\vitamins\... |
-| Developers | Developers | Ease of maintaining and developing the system |
-| Admins | Admins | Ease of monitoring |
+| -- | Medical Clinics | need to be added |
+| -- | Gov regulators | need to be added |
+| Developers | Maintenance Team | Ease of maintaining and developing the system |
+| Admins | Maintenance Team | Ease of monitoring |
 | | | Ease of configuration and scaling |
 | Food suppliers | Food suppliers | Predicted plan of purchases and delivery |
 | 3rd party kitchens | 3rd party kitchens | Same as for Ghost Kitchen |
-| PoS Admins | PoS Admins | Only meals from fridges installed locally should be visible in the App |
-| | | Ease access to a meal ingredients and allergens |
-| | | Ease of registration selling operation |
-| | | Automatic report generation about selling activity |
