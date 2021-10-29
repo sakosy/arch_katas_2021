@@ -4,8 +4,7 @@ There are list of all stakeholders for the _Farmacy Family_
 
 | ArchCollider Stakeholder | Our Stakeholder | Concerns |
 |----|----|--------|
-| Ghost Kitchen | Ghost Kitchen | Get information about prepared and delivered meals consuming to predict supply refilment |
-| | | Get information about on-demand orders |
+| Ghost Kitchen | Ghost Kitchen | updates refillment info |
 | Subscribers | Transactional Customers | Create a menu and getting meals on time |
 | | | Get notification about arriving or delayed food to save their time |
 | | | Be informed about meal ingredients |
