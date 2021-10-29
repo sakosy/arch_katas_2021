@@ -72,15 +72,15 @@ The desired solution from the functional perspective:
 1) Manage customer profiles
 2) Personalization around preferences and dietary needs of the customer
 3) Support geographical trend analysis
-4) Support push and pull models(subscriptions, forums, reference material, class information, and other media)
-5) Support transactional member information
-6) The nutritional company(eDietian) has access to the client's profile
-7) Messaging between a client and dietitian
-8) Customers can add medical information in their profiles 
-9) Customers have the ability to share information with medical service providers
-10) Customers can customize how much profile information they want to allow the community to see
-11) Third party providers(clinics, doctors, etc) have access to more analytical data
-12) A holistic UX for both Foods and Farmacy Family
+4) Support push and pull models
+5) Support subscriptions, forums, reference material, class information, and other media
+6) Support transactional member information
+7) The nutritional company(eDietian) has access to the client's profile
+8) Messaging between a client and dietitian
+9) Customers can add medical information in their profiles 
+10) Customers have the ability to share information with medical service providers
+11) Customers can customize how much profile information they want to allow the community to see
+12) Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc)
 
 ### Architecture Characteristics Requirements
 - Scalability
