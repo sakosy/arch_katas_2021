@@ -122,7 +122,7 @@ There are list of all stakeholders for the _Farmacy Family_
 ### Architecture Characteristics Requirements
 - Scalability
 - Security (?)
-- Plugin Support
+- Domain partitioning
 - Elasticity
 
 ## Architecture Decision Records
