@@ -69,18 +69,21 @@ The desired solution from the functional perspective:
 ## System Requirements
 
 ### Functional Requirements
-1) Manage customer profiles
-2) Personalization around preferences and dietary needs of the customer
-3) Support geographical trend analysis
-4) Support push and pull models
-5) Support subscriptions, forums, reference material, class information, and other media
-6) Support transactional member information
-7) The nutritional company(eDietian) has access to the client's profile
-8) Messaging between a client and dietitian
-9) Customers can add medical information in their profiles 
-10) Customers have the ability to share information with medical service providers
-11) Customers can customize how much profile information they want to allow the community to see
-12) Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc)
+
+| # | Functional Requirement
+|----|----|
+| FR1 | Manage customer profiles |
+| FR2 | Personalization around preferences and dietary needs of the customer |
+| FR3 | Support geographical trend analysis |
+| FR4 | Support push and pull models |
+| FR5 | Support subscriptions, forums, reference material, class information, and other media |
+| FR6 | Support transactional member information |
+| FR7 | The nutritional company(eDietian) has access to the client's profile |
+| FR8 | Messaging between a client and dietitian |
+| FR9 | Customers can add medical information in their profiles |
+| FR10 | Customers have the ability to share information with medical service providers |
+| FR11 | Customers can customize how much profile information they want to allow the community to see |
+| FR12 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
 
 ### Architecture Characteristics Requirements
 - Scalability
