@@ -14,10 +14,10 @@
     -   [Architecture Characteristics Requirements](https://github.com/sakosy/arch_katas_2021#architecture-characteristics-requirements)
     -   [Constraints](https://github.com/sakosy/arch_katas_2021#constraints)
     -   [Assumptions](https://github.com/sakosy/arch_katas_2021#assumptions)
--  [Architecture Decision Records](https://github.com/sakosy/arch_katas_2021#architecture-decision-records)
-- [Architecture](https://github.com/sakosy/arch_katas_2021#architecture)
-	- [Use Case Model](https://github.com/sakosy/arch_katas_2021#usecase-model)
-	- [System Context](https://github.com/sakosy/arch_katas_2021#system-context)
+-   [Architecture Decision Records](https://github.com/sakosy/arch_katas_2021#architecture-decision-records)
+-   [Architecture](https://github.com/sakosy/arch_katas_2021#architecture)
+	-   [Use Case Model](https://github.com/sakosy/arch_katas_2021#usecase-model)
+	-   [System Context](https://github.com/sakosy/arch_katas_2021#system-context)
 
 ## Glossary
 
@@ -47,12 +47,13 @@ FFamily is an enhancement of the existing FFoods system deals with:
 
 ## Business Case and Goals
 
-The Company primary goals are:
+The overall goal of FFamily is to connect, gather, analyze, and communicate
+
+Primary goals are:
 - develop relationships between engaged customers and nurture those relationships
 - convert transactional customers to engaged customers
 - generate analytical data from medical information to demonstrate the benefits of FFoods
 
-Thus, the overall goal of FFamily is to connect, gather, analyze, and communicate.
 
 Users: Hundreds, separated by distinct geographic zones.
 Additionally, different clusters of customers frequently consolidate around similar dietary requirements.
@@ -72,35 +73,33 @@ There are list of all stakeholders for the _Farmacy Family_
 
 | ArchCollider Stakeholder | Our Stakeholder | Concerns |
 |----|----|--------|
-| Ghost Kitchen | Ghost Kitchen | updates refillment info |
-| Subscribers | Transactional Customers | Create a menu and getting meals on time |
-| | | Get notification about arriving or delayed food to save their time |
-| | | Be informed about meal ingredients |
-| Known users | Transactional Customers | Browse catalog and buy food with guarantee of getting it when they come to pick it up |
-| | | Ease of buying process |
-| | | Be informed about meal ingredients |
+| Ghost Kitchen | Ghost Kitchen | updates refillment and delivery info |
+| Subscribers | Transactional Customers | need to be informed about engagement benefits & registration process |
+| Known users | Transactional Customers | need to be informed about engagement benefits & registration process |
 | Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convinient way at same time|
-| Owner | Operators | Attract all type of users |
-| | | Improve quality of provided food and service |
-| | | Information about users preferences |
-| | | Support for accounting system |
-| Nutritionists | Dietitian | Search in catalog by specific components |
-| | | Calculation % of fats\carbs\vitamins\... |
-| -- | Medical Clinics | need to be added |
+| Owner | Operators | need to communicate with customers about their issues |
+| | | communicate with community |
+| Nutritionists | Dietitian | gives advices to community |
+| | | gives personal advices |
+| | | get selective access to medical information |
+| -- | Medical Clinics | gather results of baseline tests for clients |
 | -- | Gov regulators | need to be added |
-| -- | Investors | need to be added |
+| -- | Investors | gets statistics about overall health of customers |
 | Developers | Maintenance Team | Ease of maintaining and developing the system |
 | Admins | Maintenance Team | Ease of monitoring |
-| | | Ease of configuration and scaling |
-| Food suppliers | Food suppliers | Predicted plan of purchases and delivery |
+| Food suppliers | Food suppliers | updates delivery info |
 | 3rd party kitchens | 3rd party kitchens | Same as for Ghost Kitchen |
 
 ## Assumptions
 
-| # | concerns |
+| # | Description |
 |----|----|
-| ASM-1 | kitchens refills fridges |
-
+| ASM-1 | Farmacy Food & Farmacy Family wants to inform customers about most of their activities |
+| ASM-2 | kitchens (3rd party included) wants to send updates about fridges refillment and Farmacy Food support it |
+| ASM-3 | Food suppliers wants to send updates about fridges refillment and Farmacy Food support it |
+| ASM-4 | Support Community includes all _Communities_ of Farmacy Family Customers |
+| ASM-5 | Community includes customers in some concrete neighborhood |
+| ASM-6 | Dietitians will guides classes and any other education |
 
 ## System Requirements
 
