@@ -1,4 +1,4 @@
-# Use the microservice architecture style with containerization
+# Use the microservices as the base architectural style
 
 ## Context
 Farmacy Family is a start up company and does not have experienced developers available.
