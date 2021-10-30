@@ -119,12 +119,16 @@ There are list of all stakeholders for the _Farmacy Family_
 | FR10 | Customers have the ability to share information with medical service providers |
 | FR11 | Customers can customize how much profile information they want to allow the community to see |
 | FR12 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
+| FR13 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
 
 ### Architecture Characteristics Requirements
-- Scalability
-- Security (?)
-- Domain partitioning
-- Elasticity
+- Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
+- Security: We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR10, FR13).
+- Domain partitioning: We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR5, FR8, FR9, FR10).
+- Elasticity: The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
+
+## Design Decisions
+
 
 ## Architecture Decision Records
 
