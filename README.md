@@ -17,8 +17,9 @@
     -   [Assumptions](https://github.com/sakosy/arch_katas_2021#assumptions)
 -   [Architecture Decision Records](https://github.com/sakosy/arch_katas_2021#architecture-decision-records)
 -   [Architecture](https://github.com/sakosy/arch_katas_2021#architecture)
-	-   [Use Case Model](https://github.com/sakosy/arch_katas_2021#usecase-model)
+	-   [Customer Jurney](https://github.com/sakosy/arch_katas_2021#customer-journey)
 	-   [System Context](https://github.com/sakosy/arch_katas_2021#system-context)
+	-   [Container Diagram](https://github.com/sakosy/arch_katas_2021#container-diagram)
 
 ## Glossary
 
