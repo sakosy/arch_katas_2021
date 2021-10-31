@@ -92,6 +92,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | Admins | Maintenance Team | Ease of monitoring |
 | Food suppliers | Food suppliers | updates delivery info |
 | 3rd party kitchens | 3rd party kitchens | Same as for Ghost Kitchen |
+| -- | Farmacy Foods | improve distribution and food waste from having the wrong mix of foods in a particular fridge |
 
 ## Assumptions
 
