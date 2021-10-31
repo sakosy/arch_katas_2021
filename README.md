@@ -149,9 +149,12 @@ There is a list of all stakeholders for the _Farmacy Family_
 - **Domain partitioning:** We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10).
 - **Elasticity:** The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
 
-## Design Decisions
-
-
 ## Architecture Decision Records
 
 ## Architecture
+
+### Customer Journey
+
+### System Context
+
+### Container Diagram
