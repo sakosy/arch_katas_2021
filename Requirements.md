@@ -14,9 +14,13 @@ The Kata
 Definitions
 
 Transactional Customer - FFoods
+
 Engaged Customer - in FFamily and FFoods
+
 Support Community - engaged members within a community
+
 Client: low income, poverty level, homeless, college students, educators, senior citizens
+
 Community - small group of engaged customers within a neighborhood area
 
 Overview
