@@ -33,7 +33,7 @@
 
 ## Overview
 
-FFamily should adds tighter engagement with their customers.
+FFamily should add tighter engagement with their customers.
 
 FFamily is an enhancement of the existing FFoods system deals with:
  - products catalog 
@@ -43,7 +43,7 @@ FFamily is an enhancement of the existing FFoods system deals with:
  - smart fridges management
  - etc.
 
- FFoods has been designed before, but not developed yet (we play in the "brown fields" and it's possible to submit requirements to FFoods).
+ FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's possible to submit requirements to FFoods).
 
  FFamily needs to be aware of seamless integration with FFoods.
 
@@ -59,9 +59,9 @@ Primary goals are:
 
 Users: Hundreds, separated by distinct geographic zones.
 Additionally, different clusters of customers frequently consolidate around similar dietary requirements.
-A focus on ensuring that entire offering is accommodating to low income, poverty, and homeless.
+Shouldfocus on ensuring that entire offering is accommodating to low income, poverty, and homeless.
 
-FFamily should provide functionality of Customer Relationship Management system (CRM) and Customer Data Profile system (CDP). Also it should provide the ability to get Data-Driven decisions and analytics.
+FFamily should provide the Customer Relationship Management system (CRM) and Customer Data Profile system (CDP). Also it should provide the ability to get Data-Driven decisions and analytics.
 
 The desired solution from the functional perspective:
 
@@ -76,18 +76,18 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 | FFoods Stakeholders | FFamily Stakeholders | Concerns |
 |----|----|--------|
-| Ghost Kitchen | Ghost Kitchen | updates refillment and delivery info |
+| Ghost Kitchen | Ghost Kitchen | updates refilling and delivery info |
 | Subscribers | Transactional Customers | need to be informed about engagement benefits & registration process |
 | Known users | Transactional Customers | need to be informed about engagement benefits & registration process |
-| Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convinient way at same time|
+| Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convenient way at the same time|
 | Owner | Operators | need to communicate with customers about their issues |
 | | | communicate with community |
-| Nutritionists | Dietitian | gives advices to community |
-| | | gives personal advices |
+| Nutritionists | Dietitian | gives advice to the community |
+| | | gives personal advice |
 | | | get selective access to medical information |
 | -- | Medical Clinics | gather results of baseline tests for clients |
 | -- | Gov regulators | must be sure that confidential medical info processed regarding the law |
-| -- | Investors | gets advanced analytics to be sure, that investments works well |
+| -- | Investors | gets advanced analytics to be sure that investments work well |
 | Developers | Maintenance Team | Ease of maintaining and developing the system |
 | Admins | Maintenance Team | Ease of monitoring |
 | Food suppliers | Food suppliers | updates delivery info |
