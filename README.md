@@ -99,7 +99,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | # | Description |
 |----|----|
 | CNS-1 | Add Farmacy Family user interface to existing Foods interface, which is currently a Reactive monolith. Create a holistic UX for both food and Farmacy Family to support engagement model |
-| CNS-2 | Farmacy Foods is a startup, so it will not be able to spend a lot of money for developing |
+| CNS-2 | Farmacy Foods is a startup, so it will not be able to spend a lot of money for the development |
 
 
 ## Assumptions
