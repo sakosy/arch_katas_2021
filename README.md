@@ -141,6 +141,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR-20 | ??? Convert transactional customers to engaged customers |
 | FR-21 | ??? Make connections between similar demographics |
 | FR-22 | ??? Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge |
+| FR-23 | ??? Get from clinics info based on extended data, for example regional dietary observations
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
