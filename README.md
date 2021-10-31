@@ -81,8 +81,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 | Known users | Transactional Customers | need to be informed about engagement benefits & registration process |
 | Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convenient way at the same time |
 | -- | Engaged Customers | requests\receives advices, overall health reports |
-| Owner | Owner | need to communicate with customers about their issues |
-| -- | Operators | gets advanced analytics to be sure that investments work well |
+| Owner | Owner | gets advanced analytics to be sure that investments work well |
+| -- | Operators | need to communicate with customers about their issues |
 | | | communicate with community |
 | Nutritionists | Dietitian | gives advice to the community |
 | | | gives personal advice |
