@@ -129,7 +129,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR8 | Messaging between a client and dietitian |
 | FR9 | Customers can add medical information in their profiles |
 | FR10 | Customers have the ability to share information with medical service providers |
-| FR11 | Customers can customize how much profile information they want to allow the community to see |
+| FR11 | Customers can customize how much profile information they want to allow the community to see at a fine-grained level|
 | FR12 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
 | FR13 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
 | FR14 | ??? Develop relationships between engaged customers |
