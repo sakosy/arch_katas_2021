@@ -28,7 +28,7 @@
 - Transactional Customer - A customer, who makes purchase using FFoods service. He/She used just FFoods.
 - Engaged Customer - Transactional Customer, registeered in FFamily aswell.
 - Support Community - engaged members within a community.
-- Client - low income, poverty level, homeless, college students, educators, senior citizens.
+- Client (Customer) - low income, poverty level, homeless, college students, educators, senior citizens.
 - Community - small group of engaged customers within a neighborhood area
 
 ## Overview
