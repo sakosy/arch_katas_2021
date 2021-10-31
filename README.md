@@ -167,6 +167,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 #### Engaged Customer
 
 #### Dietitian
+![Dietitian CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Dietitian_CJM.png)
 
 #### Clinic Employee
 
@@ -176,6 +177,6 @@ There is a list of all stakeholders for the _Farmacy Family_
 This is the "helicopter view" on the designed system and environment (C4 level 1).
 You can see interactions between Farmacy Family and other actors (stakeholders).
 
-![Syatem Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.System_Context.png)
+![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.System_Context.png)
 
 ### Container Diagram
