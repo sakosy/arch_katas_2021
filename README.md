@@ -160,7 +160,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 ## Architecture
 
-### Use Cases List as Customers Journey
+### Use Cases List as Customers Journeys
 
 | # | Description | Link |
 |----|----|--------|
