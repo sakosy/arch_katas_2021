@@ -165,6 +165,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 #### Transactional Customer
 
 #### Engaged Customer
+![Engagement Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.EngagedCustomer.png)
 
 #### Dietitian
 ![Dietitian CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Dietitian_CJM.png)
