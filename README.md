@@ -65,7 +65,7 @@ FFamily should provide functionality of Customer Relationship Management system 
 
 The desired solution from the functional perspective:
 
-[![Marketecture](https://github.com/sakosy/arch_katas_2021/blob/main/Images/marketecture.jpg)](https://github.com/sakosy/arch_katas_2021/images/marketecture.png)
+[![Marketecture](https://github.com/sakosy/arch_katas_2021/blob/main/Images/marketecture.png)
 
 FFoods + FFamily will provide a way to create an infinity customer journey on both systems.
 It should be possible to increase Customer Lifetime Value (CLV), FFoods income and get more investors based on better analytics.
