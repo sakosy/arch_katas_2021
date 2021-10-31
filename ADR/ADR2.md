@@ -1,4 +1,4 @@
-#Title
+#Each component must be cloud-native
 
 ##Status
 
