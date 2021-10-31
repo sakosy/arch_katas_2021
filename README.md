@@ -122,7 +122,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR1 | Manage customer profiles |
 | FR2 | Personalization around preferences and dietary needs of the customer |
 | FR3 | Support geographical trend analysis |
-| FR4 | Support push and pull models |
+| FR4 | Support push and pull models for the customer profiles |
 | FR5 | Support subscriptions, forums, reference material, class information, and other media |
 | FR6 | Support transactional member information |
 | FR7 | The nutritional company(eDietian) has access to the client's profile |
