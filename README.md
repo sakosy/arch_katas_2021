@@ -163,6 +163,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 ### Customer Journey
 
 #### Transactional Customer
+![Transactional Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.TransactionalCustomer.png)
 
 #### Engaged Customer
 ![Engagement Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.EngagedCustomer.png)
