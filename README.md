@@ -86,8 +86,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 | | | gives personal advices |
 | | | get selective access to medical information |
 | -- | Medical Clinics | gather results of baseline tests for clients |
-| -- | Gov regulators | need to be added |
-| -- | Investors | gets statistics about overall health of customers |
+| -- | Gov regulators | must be sure that confidential medical info processed regarding the law |
+| -- | Investors | gets advanced analytics to be sure, that investments works well |
 | Developers | Maintenance Team | Ease of maintaining and developing the system |
 | Admins | Maintenance Team | Ease of monitoring |
 | Food suppliers | Food suppliers | updates delivery info |
