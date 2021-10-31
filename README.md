@@ -6,7 +6,7 @@
 
 **Team Members:** *Sergey, Natalya, Sattar, Samvel*
 
-**Who we are:** We are colleagues from the largest Telco company in Russia. We are passionate in Big Data technologies in the different positions: Architects, Product Owners, Developers. We are working with Petabyte-scale clusters, hundreeds of servers and thousends of ETL/ML/SQL tasks. We are trying to make our best to make future better than ever before. We are happy to present you our solution below.
+**Who we are:** We are colleagues from the largest Telco company in Russia. We are passionate in Big Data technologies on the different positions: Architects, Product Owners, Developers. We are working with Petabyte-scale clusters, hundreeds of servers and thousends of ETL/ML/SQL tasks. We are trying to make our best to make future better than ever before. We are happy to present you our solution below.
 
 -   [Glossary](https://github.com/sakosy/arch_katas_2021#glossary)
 -   [Overview](https://github.com/sakosy/arch_katas_2021#overview)
