@@ -74,7 +74,7 @@ It should be possible to increase Customer Lifetime Value (CLV), FFoods income a
 
 There is a list of all stakeholders for the _Farmacy Family_
 
-| ArchCollider Stakeholder | Our Stakeholder | Concerns |
+| FFoods Stakeholders | FFamily Stakeholders | Concerns |
 |----|----|--------|
 | Ghost Kitchen | Ghost Kitchen | updates refillment and delivery info |
 | Subscribers | Transactional Customers | need to be informed about engagement benefits & registration process |
