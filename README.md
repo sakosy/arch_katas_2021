@@ -136,6 +136,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR15 | ??? Convert transactional customers to engaged customers |
 | FR16 | ??? When a transactional customer purchases a meal, FFamily will generate an email elucidating additional benefits available for becoming an engaged customer. |
 | FR17 | ??? Convert transactional customers to engaged customers |
+| FR18 | ??? Generate analytical data from medical information to demonstrate the benefits of Farmacy Foods |
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
