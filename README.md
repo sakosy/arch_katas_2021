@@ -162,6 +162,16 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 ### Customer Journey
 
+#### Transactional Customer
+
+#### Engaged Customer
+
+#### Dietitian
+
+#### Clinic Employee
+
+#### Operator
+
 ### System Context
 This is the "helicopter view" on the designed system and environment (C4 level 1).
 You can see interactions between Farmacy Family and other actors (stakeholders).
