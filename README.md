@@ -173,6 +173,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 ![Clinic CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/cjm4clinic.png)
 
 #### Operator
+![Operator CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/CJM4_Operator.png)
 
 ### System Context
 This is the "helicopter view" on the designed system and environment (C4 level 1).
