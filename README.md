@@ -121,7 +121,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 |----|----|
 | FR1 | Manage customer profiles |
 | FR2 | Personalization around preferences and dietary needs of the customer |
-| FR3 | Support geographical trend analysis |
+| FR3 | Support geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges (an additional integration point TO Farmacy Foods)|
 | FR4 | Support push and pull models for the customer profiles |
 | FR5 | Support subscriptions, forums, reference material, class information, and other media |
 | FR6 | Support transactional member information |
