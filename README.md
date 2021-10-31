@@ -161,5 +161,6 @@ There is a list of all stakeholders for the _Farmacy Family_
 ### Customer Journey
 
 ### System Context
+![Syatem Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.System_Context.png)
 
 ### Container Diagram
