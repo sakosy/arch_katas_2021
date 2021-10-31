@@ -79,7 +79,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 | Ghost Kitchen | Ghost Kitchen | updates refilling and delivery info |
 | Subscribers | Transactional Customers | need to be informed about engagement benefits & registration process |
 | Known users | Transactional Customers | need to be informed about engagement benefits & registration process |
-| Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convenient way at the same time|
+| Occasional users | Transactional Customers | Visually select a meal, get info about it and pay in the most convenient way at the same time |
+| -- | Engaged Customers | requests\receives advices, overall health reports |
 | Owner | Operators | need to communicate with customers about their issues |
 | | | communicate with community |
 | Nutritionists | Dietitian | gives advice to the community |
