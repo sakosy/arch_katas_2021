@@ -30,6 +30,7 @@
 - Support Community - engaged members within a community.
 - Client (Customer) - low income, poverty level, homeless, college students, educators, senior citizens.
 - Community - small group of engaged customers within a neighborhood area
+- Medcal Data Platform - an aggregation platform for EHRs from various EHR providers (e.g. [Nuna](https://www.nuna.com/))
 
 ## Overview
 
