@@ -169,7 +169,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 #### Dietitian
 ![Dietitian CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Dietitian_CJM.png)
 
-#### Clinic Employee
+#### Clinic
+![Clinic CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/cjm4clinic.png)
 
 #### Operator
 
