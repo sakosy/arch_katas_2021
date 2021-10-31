@@ -122,9 +122,9 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR1 | Manage customer profiles |
 | FR2 | Personalization around preferences and dietary needs of the customer |
 | FR3 | Support geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges (an additional integration point TO Farmacy Foods)|
-| FR4 | Support push and pull models for the customer profiles |
-| FR5 | Support subscriptions, forums, reference material, class information, and other media |
-| FR6 | Support transactional member information |
+| FR4 | Support push and pull models for community engagement |
+| FR5 | Manage forums, emails, reference material, class information, and other media |
+| FR6 | Support gathering transactional member information |
 | FR7 | The nutritional company(eDietian) has access to the client's profile |
 | FR8 | Messaging between a client and dietitian |
 | FR9 | Customers can add medical information in their profiles |
@@ -137,6 +137,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR16 | ??? When a transactional customer purchases a meal, FFamily will generate an email elucidating additional benefits available for becoming an engaged customer. |
 | FR17 | ??? Convert transactional customers to engaged customers |
 | FR18 | ??? Generate analytical data from medical information to demonstrate the benefits of Farmacy Foods |
+| FR19 | ??? Make connections between similar demographics |
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
