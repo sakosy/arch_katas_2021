@@ -119,25 +119,34 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 | # | Functional Requirement
 |----|----|
-| FR1 | Manage customer profiles |
-| FR2 | Personalization around preferences and dietary needs of the customer |
-| FR3 | Support geographical trend analysis |
-| FR4 | Support push and pull models for the customer profiles |
-| FR5 | Support subscriptions, forums, reference material, class information, and other media |
-| FR6 | Support transactional member information |
-| FR7 | The nutritional company(eDietian) has access to the client's profile |
-| FR8 | Messaging between a client and dietitian |
-| FR9 | Customers can add medical information in their profiles |
-| FR10 | Customers have the ability to share information with medical service providers |
-| FR11 | Customers can customize how much profile information they want to allow the community to see |
-| FR12 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
-| FR13 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
-| FR14 | ??? Develop relationships between engaged customers |
+| FR-1 | Manage customer profiles |
+| FR-2 | Personalization around preferences and dietary needs of the customer |
+| FR-3 | Support geographical trend analysis |
+| FR-4 | Support push and pull models for the customer profiles |
+| FR-5 | Support subscriptions, forums, reference material, class information, and other media |
+| FR-6 | Support transactional member information |
+| FR-7 | The nutritional company(eDietian) has access to the client's profile |
+| FR-8 | Messaging between a client and dietitian |
+| FR-9 | Customers can add medical information in their profiles |
+| FR-10 | Customers have the ability to share information with medical service providers |
+| FR-11 | Customers can customize how much profile information they want to allow the community to see |
+| FR-12 | Selective access to medical information about the customer from a partner |
+| FR-13 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
+| FR-14 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
+| FR-15 | Demonstrate any changes in overall health analyzed in clinics |
+| FR-16 | ??? Develop relationships between engaged customers |
+| FR-17 | Send an email elucidating additional benefits available for becoming an engaged customer when a transactional customer purchases a meal |
+| FR-18 | Generate analytical data from medical information |
+| FR-19 | Recognize Transactional Customers that are not part of Farmacy Family |
+| FR- |  |
+| FR- |  |
+| FR- |  |
+
 
 ### Architecture Characteristics Requirements
-- Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
-- Security: We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR10, FR13).
-- Domain partitioning: We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR5, FR8, FR9, FR10).
+- Scalability: We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
+- Security: We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR-10, FR-13).
+- Domain partitioning: We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10).
 - Elasticity: The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
 
 ## Design Decisions
