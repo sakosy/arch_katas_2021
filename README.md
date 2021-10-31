@@ -121,27 +121,26 @@ There is a list of all stakeholders for the _Farmacy Family_
 |----|----|
 | FR-1 | Manage customer profiles |
 | FR-2 | Personalization around preferences and dietary needs of the customer |
-| FR-3 | Support geographical trend analysis |
-| FR-4 | Support push and pull models for the customer profiles |
-| FR-5 | Support subscriptions, forums, reference material, class information, and other media |
-| FR-6 | Support transactional member information |
+| FR-3 | Support geographical trend analysis to hone Farmacy Family’s ability to optimize the foods delivered to fridges (an additional integration point TO Farmacy Foods)|
+| FR-4 | Support push and pull models for community engagement |
+| FR-5 | Manage forums, emails, reference material, class information, and other media |
+| FR-6 | Support gathering transactional member information |
 | FR-7 | The nutritional company(eDietian) has access to the client's profile |
 | FR-8 | Messaging between a client and dietitian |
 | FR-9 | Customers can add medical information in their profiles |
 | FR-10 | Customers have the ability to share information with medical service providers |
-| FR-11 | Customers can customize how much profile information they want to allow the community to see |
+| FR-11 | Customers can customize how much profile information they want to allow the community to see at a fine-grained level |
 | FR-12 | Selective access to medical information about the customer from a partner |
 | FR-13 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
 | FR-14 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
 | FR-15 | Demonstrate any changes in overall health analyzed in clinics |
-| FR-16 | ??? Develop relationships between engaged customers |
-| FR-17 | Send an email elucidating additional benefits available for becoming an engaged customer when a transactional customer purchases a meal |
-| FR-18 | Generate analytical data from medical information |
-| FR-19 | Recognize Transactional Customers that are not part of Farmacy Family |
-| FR- |  |
-| FR- |  |
-| FR- |  |
-
+| FR-16 | Send an email elucidating additional benefits available for becoming an engaged customer when a transactional customer purchases a meal |
+| FR-17 | Generate analytical data from medical information to demonstrate the benefits of Farmacy Foods |
+| FR-18 | Recognize Transactional Customers that are not part of Farmacy Family |
+| FR-19 | ??? Develop relationships between engaged customers |
+| FR-20 | ??? Convert transactional customers to engaged customers |
+| FR-21 | ??? Make connections between similar demographics |
+| FR-22 | ??? Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge |
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
