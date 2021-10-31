@@ -121,7 +121,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 ### Functional Requirements
 
-| # | Functional Requirement
+| # | Functional Requirement |
 |----|----|
 | FR-1 | Manage customer profiles |
 | FR-2 | Personalization around preferences and dietary needs of the customer |
