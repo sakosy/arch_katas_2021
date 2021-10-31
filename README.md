@@ -135,6 +135,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR14 | ??? Develop relationships between engaged customers |
 | FR15 | ??? Convert transactional customers to engaged customers |
 | FR16 | ??? When a transactional customer purchases a meal, FFamily will generate an email elucidating additional benefits available for becoming an engaged customer. |
+| FR17 | ??? Convert transactional customers to engaged customers |
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
