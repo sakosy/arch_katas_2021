@@ -114,7 +114,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 | ASM-3 | Food suppliers wants to send updates about fridges refillment and Farmacy Food support it |
 | ASM-4 | Support Community includes all _Communities_ of Farmacy Family Customers |
 | ASM-5 | Community includes customers in some concrete neighborhood |
-| ASM-6 | Dietitians will guides classes and any other education |
+| ASM-6 | Community may includes customers with same diet |
+| ASM-7 | Dietitians will guides classes and any other education |
 
 ## System Requirements
 
