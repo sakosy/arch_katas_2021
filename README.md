@@ -138,6 +138,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR17 | ??? Convert transactional customers to engaged customers |
 | FR18 | ??? Generate analytical data from medical information to demonstrate the benefits of Farmacy Foods |
 | FR19 | ??? Make connections between similar demographics |
+| FR20 | ??? Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge |
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
