@@ -1,6 +1,6 @@
 ## The "Farmacy Family" System
 
-**Team:** Elephant on Cycle
+**Team Name:** Elephant on Cycle
 
 ![Team_Logo](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Elephant_on_Cycle.png)
 
@@ -45,29 +45,30 @@ FFamily is an enhancement of the existing FFoods system deals with:
 
  FFoods has been designed before, but not developed yet (we play in the "brown fields" and it's possible to submit requirements to FFoods).
 
- And FFamily needs to be aware of seamless integration with FFoods.
+ FFamily needs to be aware of seamless integration with FFoods.
 
 ## Business Case and Goals
 
-The overall goal of FFamily is to connect, gather, analyze, and communicate
+The overall goal of FFamily is to connect, gather, analyze, and communicate.
 
 Primary goals are:
-- develop relationships between engaged customers and nurture those relationships
-- convert transactional customers to engaged customers
-- generate analytical data from medical information to demonstrate the benefits of FFoods
+- develop relationships between engaged customers and nurture those relationships;
+- convert transactional customers to engaged customers;
+- generate analytical data from medical information to demonstrate the benefits of FFoods;
 
 
 Users: Hundreds, separated by distinct geographic zones.
 Additionally, different clusters of customers frequently consolidate around similar dietary requirements.
 A focus on ensuring that entire offering is accommodating to low income, poverty, and homeless.
 
-FFamily should provide functionality of Customer Relationship Management system (CRM) and Customer Data Profile system (CDP). Also it should provide the ability to get Data-Driven decisions.
-
-Thus, it should be possible to increase Customer Lifetime Value (CLV) and get more investors based on better analytics.
+FFamily should provide functionality of Customer Relationship Management system (CRM) and Customer Data Profile system (CDP). Also it should provide the ability to get Data-Driven decisions and analytics.
 
 The desired solution from the functional perspective:
 
-[![Marketecture](https://github.com/sakosy/arch_katas_2021/images/marketecture.jpg)](https://github.com/sakosy/arch_katas_2021/images/marketecture.jpg)
+[![Marketecture](https://github.com/sakosy/arch_katas_2021/images/marketecture.jpg)](https://github.com/sakosy/arch_katas_2021/images/marketecture.png)
+
+FFoods + FFamily will provide a way to create an infinity customer journey on both systems.
+It should be possible to increase Customer Lifetime Value (CLV), FFoods income and get more investors based on better analytics.
 
 ## Stakeholders
 
