@@ -99,7 +99,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | # | Description |
 |----|----|
 | CNS-1 | Add Farmacy Family user interface to existing Foods interface, which is currently a Reactive monolith. Create a holistic UX for both food and Farmacy Family to support engagement model |
-| CNS-2 | Farmacy Foods is a startup, so it will not be able to spend a lot of money for the development |
+| CNS-2 | Farmacy Foods is a startup, so it will not be able to spend a lot of money on the development |
 
 
 ## Assumptions
@@ -107,11 +107,11 @@ There is a list of all stakeholders for the _Farmacy Family_
 | # | Description |
 |----|----|
 | ASM-1 | Farmacy Food & Farmacy Family wants to inform customers about most of their activities |
-| ASM-2 | kitchens (3rd party included) wants to send updates about fridges refillment and Farmacy Food support it |
-| ASM-3 | Food suppliers wants to send updates about fridges refillment and Farmacy Food support it |
+| ASM-2 | kitchens (3rd party included) wants to send updates about fridges refilling and Farmacy Food support it |
+| ASM-3 | Food suppliers want to send updates about fridges refilling and Farmacy Food support it |
 | ASM-4 | Support Community includes all _Communities_ of Farmacy Family Customers |
 | ASM-5 | Community includes customers in some concrete neighborhood |
-| ASM-6 | Dietitians will guides classes and any other education |
+| ASM-6 | Dietitians will guide classes and any other education |
 
 ## System Requirements
 
@@ -128,10 +128,10 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR-7 | The nutritional company(eDietian) has access to the client's profile |
 | FR-8 | Messaging between a client and dietitian |
 | FR-9 | Customers can add medical information in their profiles |
-| FR-10 | Customers have the ability to share information with medical service providers |
+| FR-10 | Customers can share information with medical service providers |
 | FR-11 | Customers can customize how much profile information they want to allow the community to see at a fine-grained level |
 | FR-12 | Selective access to medical information about the customer from a partner |
-| FR-13 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
+| FR-13 | Third-party providers(clinics, doctors, etc.) have access to extra analytical data(Geodata, preferences, etc.) |
 | FR-14 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
 | FR-15 | Demonstrate any changes in overall health analyzed in clinics |
 | FR-16 | Send an email elucidating additional benefits available for becoming an engaged customer when a transactional customer purchases a meal |
@@ -141,13 +141,13 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR-20 | ??? Convert transactional customers to engaged customers |
 | FR-21 | ??? Make connections between similar demographics |
 | FR-22 | ??? Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge |
-| FR-23 | ??? Get from clinics info based on extended data, for example regional dietary observations
+| FR-23 | ??? Get from clinics info based on extended data, for example, regional dietary observations
 
 ### Architecture Characteristics Requirements
-- **Scalability:** We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
-- **Security:** We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR-10, FR-13).
+- **Scalability:** We should care about the potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
+- **Security:** We have to operate with customers' private medical profiles. So, this type of data must be processed securely (FR-10, FR-13).
 - **Domain partitioning:** We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10).
-- **Elasticity:** The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
+- **Elasticity:** The engagement could increase the number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
 
 ## Architecture Decision Records
 
