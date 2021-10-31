@@ -1,19 +1,24 @@
 About Farmacy Food
 
 https://www.farmacyfood.com/
+
 Our Mission
+
 Our mission is to make health and wellness radically affordable and accessible.
 We want to change people’s perception of healthy eating. Maintaining a healthy lifestyle does not need to be difﬁcult. At Farmacy Food, we create ﬂavorful, nutritious meals to support your overall well-being and busy lifestyle. Our goal is to work with you to recognize that achieving your health goals can be done with convenience.
 
 We strive to solve the crisis of the lack of affordable and healthy food available in our greater community. Price should not be an obstacle for those who are eager to achieve their health goals. We strongly believe in equity through food. Keeping equity at the forefront of everything we do, we offer discounted pricing to low-income residents, college students, educators, senior citizens, and veterans. We are passionate about using food as a vehicle to serve the underserved.
 
 The Kata 
+
 Definitions
+
 Transactional Customer - FFoods
 Engaged Customer - in FFamily and FFoods
 Support Community - engaged members within a community
 Client: low income, poverty level, homeless, college students, educators, senior citizens
 Community - small group of engaged customers within a neighborhood area
+
 Overview
 
 Farmacy Family is an enhancement of the existing Farmacy Foods system (designed by Arch Colider from the first Kata exercise) that adds tighter engagement with their customers. The primary goals:
@@ -49,7 +54,9 @@ Requirements:
 * Add Farmacy Family user interface to existing Foods interface, which is currently a Reactive monolith. Create a holistic UX for both food and Farmacy Family to support engagement model.  
 
 Technical Details
+
 Domain areas:
+
 ●	Onboarding
 ○	profile for customer
 ○	analytics
@@ -63,7 +70,9 @@ Domain areas:
 ○	dietician 
 ○	clinics
 ○	Farmacy Foods
+
 Engagement Models
+
 ●	Clients
 ○	Covered above - building a community, education, increased awareness
 ●	Clinics - Work with clinics to establish baseline tests for clients
