@@ -133,6 +133,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR12 | Third party providers(clinics, doctors, etc) have access to extra analytical data(Geo data, preferences, etc) |
 | FR13 | Clinics should be able to establish baseline tests for clients. We have to gather results every 3 months. |
 | FR14 | ??? Develop relationships between engaged customers |
+| FR15 | ??? Convert transactional customers to engaged customers |
+| FR16 | ??? When a transactional customer purchases a meal, FFamily will generate an email elucidating additional benefits available for becoming an engaged customer. |
 
 ### Architecture Characteristics Requirements
 - Scalability: We should care about potential growth of analytical data and communication history volume (FR5, FR8, FR9).
