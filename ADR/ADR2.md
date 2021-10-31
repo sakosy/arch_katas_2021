@@ -1,9 +1,9 @@
-#Each component must be cloud-native
+# Each component must be cloud-native
 
-##Status
+## Status
 
-##Context
+## Context
 
-##Decision
+## Decision
 
-##Consequences
+## Consequences
