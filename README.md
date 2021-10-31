@@ -94,6 +94,14 @@ There is a list of all stakeholders for the _Farmacy Family_
 | 3rd party kitchens | 3rd party kitchens | Same as for Ghost Kitchen |
 | -- | Farmacy Foods | improve distribution and food waste from having the wrong mix of foods in a particular fridge |
 
+## Constraints
+
+| # | Description |
+|----|----|
+| CNS-1 | Add Farmacy Family user interface to existing Foods interface, which is currently a Reactive monolith. Create a holistic UX for both food and Farmacy Family to support engagement model |
+| CNS-2 | Farmacy Foods is a startup, so it will not be able to spend a lot of money for developing |
+
+
 ## Assumptions
 
 | # | Description |
