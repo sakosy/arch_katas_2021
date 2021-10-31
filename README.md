@@ -72,7 +72,7 @@ It should be possible to increase Customer Lifetime Value (CLV), FFoods income a
 
 ## Stakeholders
 
-There are list of all stakeholders for the _Farmacy Family_
+There is a list of all stakeholders for the _Farmacy Family_
 
 | ArchCollider Stakeholder | Our Stakeholder | Concerns |
 |----|----|--------|
