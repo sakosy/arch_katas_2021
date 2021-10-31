@@ -62,40 +62,68 @@ Technical Details
 Domain areas:
 
 ●	Onboarding
+
 ○	profile for customer
+
 ○	analytics
+
 ●	Community
+
 ○	forum (localized, temporal)
+
 ○	in person / virtual events (localized, temporal)
+
 ○	classes (localized, temporal)
+
 ○	interactive media library (global, reference)
+
 ○	general wellness education (global, reference)
+
 ●	Integration (extranet)
+
 ○	dietician 
+
 ○	clinics
+
 ○	Farmacy Foods
 
 Engagement Models
 
 ●	Clients
+
 ○	Covered above - building a community, education, increased awareness
+
 ●	Clinics - Work with clinics to establish baseline tests for clients
+
 ○	Gather results
+
 ○	Test every 3 months
+
 ○	Analyze results
+
 ○	Demonstrate any change in their overall health
+
 ○	use this info to gain investors and additional support and help
+
 ●	Dieticians
+
 ○	Farmacy Foods supported generic advice from dieticians. Farmacy Family will support one-on-one advice for engaged customers
+
 ○	Regular contact via messages
+
 ○	Selective access to medical information about the customer from a partner clinic
+
 ●	Family Foods
+
 ○	Farmacy Family needs to know which Transactional Customers (and their information) are not part of Farmacy Family (Engaged Customer) to start the onboarding process for those customers
+
 ○	Farmacy Foods needs to know which transactional customers are Engaged Customers
 
 
 Additional Context
+
 ●	The new system must seamlessly incorporate into Farmacy Foods
+
 ●	Improved use of analytics driven through the new integration of Farmacy Family will help gather new investors and prove better dietary outcomes in member communities
 
 
