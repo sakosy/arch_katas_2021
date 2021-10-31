@@ -142,11 +142,10 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR-16 | Send an email elucidating additional benefits available for becoming an engaged customer when a transactional customer purchases a meal |
 | FR-17 | Generate analytical data from medical information to demonstrate the benefits of Farmacy Foods |
 | FR-18 | Recognize Transactional Customers that are not part of Farmacy Family |
-| FR-19 | ??? Develop relationships between engaged customers |
-| FR-20 | ??? Convert transactional customers to engaged customers |
-| FR-21 | ??? Make connections between similar demographics |
-| FR-22 | ??? Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge |
-| FR-23 | ??? Get from clinics info based on extended data, for example regional dietary observations |
+| FR-19 | Develop relationships between engaged customers |
+| FR-20 | Convert transactional customers to engaged customers |
+| FR-21 | Make connections between similar demographics |
+| FR-22 | Get from clinics info based on extended data, for example regional dietary observations |
 
 
 ### Architecture Characteristics Requirements
