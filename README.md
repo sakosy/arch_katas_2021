@@ -160,22 +160,17 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 ## Architecture
 
-### Customer Journey
+### Use Cases List as Customers Journey
 
-#### Transactional Customer
-![Transactional Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.TransactionalCustomer.png)
+| # | Description | Link |
+|----|----|--------|
+| UC-1 | Transactional Customer converts to Engaged Customer | [Transactional Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.TransactionalCustomer.png) |
+| UC-2 | Engaged Customer gets Report | [Engagement Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.EngagedCustomer.png) |
+| UC-3 | Dietitian comunicates with Customers | [Dietitian CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Dietitian_CJM.png) |
+| UC-4 | Clinic gather analysis results | [Clinic CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/cjm4clinic.png) |
+| UC-5 | Operator communicates with Customers | [Operator CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/CJM4_Operator.png) |
 
-#### Engaged Customer
-![Engagement Customer CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-CJM.EngagedCustomer.png)
-
-#### Dietitian
-![Dietitian CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Dietitian_CJM.png)
-
-#### Clinic
-![Clinic CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/cjm4clinic.png)
-
-#### Operator
-![Operator CJM](https://github.com/sakosy/arch_katas_2021/blob/main/Images/CJM4_Operator.png)
+Our diagrams right now may have some logical and other lacks, because we have some open questions.
 
 ### System Context
 This is the "helicopter view" on the designed system and environment (C4 level 1).
@@ -184,3 +179,5 @@ You can see interactions between Farmacy Family and other actors (stakeholders).
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.System_Context.png)
 
 ### Container Diagram
+
+![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.ContainerDiagram.png)
