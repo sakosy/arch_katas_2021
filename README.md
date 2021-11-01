@@ -150,6 +150,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | FR-22 | Get from clinics info based on extended data, for example regional dietary observations |
 | FR-23 | Customers may have access to their overall health reports |
 
+FR-1,3,4,6,11,12,21 related to Farmacy Foods integration, Engaged Customer additional activities and weren't shown in our project. 
 
 ### Architecture Characteristics Requirements
 - **Scalability:** We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
