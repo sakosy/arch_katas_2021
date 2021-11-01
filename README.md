@@ -188,5 +188,7 @@ You can see interactions between Farmacy Family and other actors (stakeholders).
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.System_Context.png)
 
 ### Container Diagram
+This is  the next C4 level, which provide as with understanding of required modules and communication protocols between them.
+Not all components are described well enought, but in general, we recommend using ADR's principles to design each of them.
 
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.ContainerDiagram.png)
