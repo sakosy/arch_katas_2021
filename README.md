@@ -158,6 +158,15 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 ## Architecture Decision Records
 
+| # | Description |
+|----|----|
+| ADR-1 | Microservices as the base architectural style |
+| ADR-2 | Components must be cloud-native |
+| ADR-3 | Micro-frontends pattern for UI |
+| ADR-4 | Sensitive medical data should be stored and processed on the certified 3rd party platforms |
+| ADR-5 | Zero-Trust Architecture |
+| ADR-6 | SaaS Omnichannel Provider as Messaging Gateway |
+
 ## Architecture
 
 ### Use Cases List as Customers Journeys
