@@ -168,6 +168,11 @@ There is a list of all stakeholders for the _Farmacy Family_
 | ADR-5 | Zero-Trust Architecture |
 | ADR-6 | SaaS Omnichannel Provider as Messaging Gateway |
 
+Application ADR-1 & ADR-2 can be reflected on more detailed diagrams.
+
+Despite the fact that ADR-5 depicted on Dietitian CJM Diagram this decision applied to all subsystems.
+
+
 ## Architecture
 
 ### Use Cases List as Customers Journeys
