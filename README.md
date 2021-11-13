@@ -122,13 +122,13 @@ There is a list of all stakeholders for the _Farmacy Family_
 
 | # | Description |
 |----|----|
-| ASM-1 | Farmacy Food & Farmacy Family wants to inform customers about most of their activities |
-| ASM-2 | kitchens (3rd party included) wants to send updates about fridges refillment and Farmacy Food support it |
-| ASM-3 | Food suppliers wants to send updates about fridges refillment and Farmacy Food support it |
+| ASM-1 | Farmacy Food & Farmacy Family want to inform customers about most of their activities |
+| ASM-2 | Kitchens (3rd party included) want to send updates about fridges refillment and Farmacy Food support it |
+| ASM-3 | Food suppliers want to send updates about fridges refillment and Farmacy Food support it |
 | ASM-4 | Support Community includes all _Communities_ of Farmacy Family Customers |
 | ASM-5 | Community includes customers in some concrete neighborhood |
 | ASM-6 | Community may includes customers with same diet |
-| ASM-7 | Dietitians will guides classes and any other education |
+| ASM-7 | Dietitians will guide classes and any other education |
 
 ## System Requirements
 
