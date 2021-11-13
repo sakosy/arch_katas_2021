@@ -50,19 +50,20 @@ Samvel
 
 ## Overview
 
-FFamily should add tighter engagement with their customers.
-
 FFamily is an enhancement of the existing FFoods system deals with:
  - products catalog 
  - order management 
+ - customer management
  - order shipping
  - payments
  - smart fridges management
  - etc.
 
- FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's possible to submit requirements to FFoods).
+FFamily should add tighter engagement with the customers.
 
- FFamily needs to be aware of seamless integration with FFoods.
+FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's possible to submit requirements to FFoods).
+
+FFamily needs to be aware of seamless integration with FFoods.
 
 ## Business Case and Goals
 
