@@ -1,6 +1,6 @@
 ## The "Farmacy Family" System
 
--   [Team]((https://github.com/sakosy/arch_katas_2021#team)
+-   [Team](https://github.com/sakosy/arch_katas_2021#team)
 -   [Glossary](https://github.com/sakosy/arch_katas_2021#glossary)
 -   [Overview](https://github.com/sakosy/arch_katas_2021#overview)
 -   [Business Case and Goals](https://github.com/sakosy/arch_katas_2021#business-case-and-goals)
@@ -28,8 +28,11 @@
 **Team Members** 
 
 [Sergey](https://www.linkedin.com/mwlite/in/sergey-kosyy-275265198)
+
 [Natalya](https://www.linkedin.com/mwlite/in/nmkh)
+
 [Sattar](https://www.linkedin.com/mwlite/in/sattar-gyulmamedov-0a1163)
+
 Samvel
 
 **Who we are:** We are colleagues from the largest Telco company in Russia. We are passionate in Big Data technologies on the different positions: Architects, Product Owners, Developers. We are working with Petabyte-scale clusters, hundreeds of servers and thousends of ETL/ML/SQL tasks. We are trying to make our best to make future better than ever before. We are happy to present you our solution below.
