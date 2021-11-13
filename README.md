@@ -204,7 +204,7 @@ On the "TEST" environment:
 
 Run HTTP Requests Generator to API from the "normal rate" (for example, 100 rpc) for just one instance and increase (for example, lineary each 10sec. multiply on 2) number of requests. After some iteratons (determine on practice) slow down generator in the same manner.
 
-Measure the number of instances | pods (using k8-s interface or service-dyscovery system).  
+Measure the number of instances | pods (using k8s interface or service-discovery system).  
 
 On the both - "TEST" and "PROD" environments:
 
