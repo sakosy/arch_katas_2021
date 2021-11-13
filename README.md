@@ -214,7 +214,7 @@ Measure Requests latency, HTTP Return Codes (200)
 
 On "TEST" & "PROD" environments: Requests latency exceed required limits. HTTP 200 Return Codes exceed required limits. 
 
-On "TEST" environment: The number of instances has not been increased to 2 or has not been descreased to 1.
+On "TEST" environment: The number of instances has not been increased to 2 or has not been decreased to 1.
 
 ## Architecture Decision Records
 
