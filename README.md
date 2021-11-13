@@ -15,6 +15,7 @@
 	-   [Customer Jurney](https://github.com/sakosy/arch_katas_2021#customer-journey)
 	-   [System Context](https://github.com/sakosy/arch_katas_2021#system-context)
 	-   [Container Diagram](https://github.com/sakosy/arch_katas_2021#container-diagram)
+	-   [Components Diagram](https://github.com/sakosy/arch_katas_2021#components-diagram)
 
 
 ## Team Elephant on Cycle
@@ -257,3 +258,5 @@ This is  the next C4 level, which provide as with understanding of required modu
 Not all components are described well enought, but in general, we recommend using ADR's principles to design each of them.
 
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.ContainerDiagram.png)
+
+### Components Diagram
