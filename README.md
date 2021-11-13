@@ -1,13 +1,6 @@
 ## The "Farmacy Family" System
 
-**Team Name:** Elephant on Cycle
-
-![Team_Logo](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Elephant_on_Cycle.png)
-
-**Team Members:** *Sergey, Natalya, Sattar, Samvel*
-
-**Who we are:** We are colleagues from the largest Telco company in Russia. We are passionate in Big Data technologies on the different positions: Architects, Product Owners, Developers. We are working with Petabyte-scale clusters, hundreeds of servers and thousends of ETL/ML/SQL tasks. We are trying to make our best to make future better than ever before. We are happy to present you our solution below.
-
+-   [Team Elephant on Cycle](https://github.com/sakosy/arch_katas_2021#team-Elephant-on-Cycle)
 -   [Glossary](https://github.com/sakosy/arch_katas_2021#glossary)
 -   [Overview](https://github.com/sakosy/arch_katas_2021#overview)
 -   [Business Case and Goals](https://github.com/sakosy/arch_katas_2021#business-case-and-goals)
@@ -23,6 +16,22 @@
 	-   [System Context](https://github.com/sakosy/arch_katas_2021#system-context)
 	-   [Container Diagram](https://github.com/sakosy/arch_katas_2021#container-diagram)
 
+
+## Team Elephant on Cycle
+
+![Team_Logo](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Elephant_on_Cycle.png)
+
+**Cycle, Eat, Design, repeat!**
+
+**Team Members** 
+
+[Sergey](https://www.linkedin.com/mwlite/in/sergey-kosyy-275265198), 
+[Natalya](https://www.linkedin.com/mwlite/in/nmkh), 
+[Sattar](https://www.linkedin.com/mwlite/in/sattar-gyulmamedov-0a1163), 
+Samvel
+
+**Who we are:** We are colleagues from the largest Telco company in Russia. We are passionate in Big Data technologies on the different positions: Architects, Product Owners, Developers. We are working with Petabyte-scale clusters, hundreeds of servers and thousends of ETL/ML/SQL tasks. We are trying to make our best to make future better than ever before. We are happy to present you our solution below.
+
 ## Glossary
 
 - Farmacy Foods (FFoods) - Order management system.
@@ -36,19 +45,20 @@
 
 ## Overview
 
-FFamily should add tighter engagement with their customers.
-
 FFamily is an enhancement of the existing FFoods system deals with:
  - products catalog 
  - order management 
+ - customer management
  - order shipping
  - payments
  - smart fridges management
  - etc.
 
- FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's possible to submit requirements to FFoods).
+FFamily should add tighter engagement with the customers.
 
- FFamily needs to be aware of seamless integration with FFoods.
+FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's possible to submit requirements to FFoods).
+
+FFamily needs to be aware of seamless integration with FFoods.
 
 ## Business Case and Goals
 
