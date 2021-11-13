@@ -163,10 +163,58 @@ There is a list of all stakeholders for the _Farmacy Family_
 FR-1,3,4,6,11,12,21 related to Farmacy Foods integration, Engaged Customer additional activities and weren't shown in our project. 
 
 ### Architecture Characteristics Requirements
-- **Scalability:** We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
-- **Security:** We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR-10, FR-13).
-- **Domain partitioning:** We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10).
-- **Elasticity:** The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
+- **AR1 Scalability** We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
+- **AR2 Security** We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR-10, FR-13).
+- **AR3 Domain partitioning** We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10).
+- **AR4 Elasticity** The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
+
+### Fitness Functions
+
+We will use the following pattern to determine Fithess Function for each AR:
+
+- What we should measure?
+
+- How we can measure?
+
+- How we know that something wrong?
+
+We should integrate fitness function measures into Continuous Delivery (CD) pipelines on the "TEST" stand. Also, we can monitor some of them on "PROD" stand.
+
+**AR1**
+
+**AR2**
+
+**AR3**
+
+**AR4**
+
+*- What we should measure?*
+
+FF4.1 Number of application instances grows up when the number of requests (users, integrated systems requests) grows up.
+
+FF4.2 Number of application instances fall down when the number of requests (users, integrated systems requests) falls down.
+
+FF4.3 The Latency in any synchronous requests to any API/Data Store/Message Queue dos not exceeded 20% in 95% percentile in 5 min. intervals.
+
+FF4.4 The percentage of invalid responces (http code not equal 200) not exceeded 20% in 95% percentile in 5 min. intervals.
+
+*- How we can measure?*
+
+On the "TEST" environment:
+
+Run HTTP Requests Generator to API from the "normal rate" (for example, 100 rpc) for just one instance and increase (for example, lineary each 10sec. multiply on 2) number of requests. After some iteratons (determine on practice) slow down generator in the same manner.
+
+Measure the number of instances | pods (using k8-s interface or service-dyscovery system).  
+
+On the both - "TEST" and "PROD" environments:
+
+Measure Requests latency, HTTP Return Codes (200)
+
+- How we know that something wrong? 
+
+On "TEST" & "PROD" environments: Requests latency exceed required limits. HTTP 200 Return Codes exceed required limits. 
+
+On "TEST" environment: The number of instances has not been increased to 2 or has not been descreased to 1.
 
 ## Architecture Decision Records
 
