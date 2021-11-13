@@ -21,7 +21,7 @@
 
 ![Team_Logo](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Elephant_on_Cycle.png)
 
-**Cycle, Eat, Design, repeat!**
+**Ride, Eat, Design, repeat!**
 
 **Team Members** 
 
