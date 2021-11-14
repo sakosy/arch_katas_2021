@@ -130,6 +130,7 @@ There is a list of all stakeholders for the _Farmacy Family_
 | ASM-5 | Community includes customers in some concrete neighborhood |
 | ASM-6 | Community may includes customers with same diet |
 | ASM-7 | Dietitians will guide classes and any other education |
+| ASM-8 | Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge - this is a task for Farmacy Foods, not Family: It manages the Product Catalog, it can manages Product compatibility card. |
 
 ## System Requirements
 
