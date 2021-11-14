@@ -15,6 +15,7 @@
 	-   [Customer Jurney](https://github.com/sakosy/arch_katas_2021#customer-journey)
 	-   [System Context](https://github.com/sakosy/arch_katas_2021#system-context)
 	-   [Container Diagram](https://github.com/sakosy/arch_katas_2021#container-diagram)
+	-   [Components Diagram](https://github.com/sakosy/arch_katas_2021#components-diagram)
 
 
 ## Team Elephant on Cycle
@@ -214,18 +215,18 @@ Measure Requests latency, HTTP Return Codes (200)
 
 On "TEST" & "PROD" environments: Requests latency exceed required limits. HTTP 200 Return Codes exceed required limits. 
 
-On "TEST" environment: The number of instances has not been increased to 2 or has not been descreased to 1.
+On "TEST" environment: The number of instances has not been increased to 2 or has not been decreased to 1.
 
 ## Architecture Decision Records
 
 | # | Description |
 |----|----|
-| ADR-1 | Microservices as the base architectural style |
-| ADR-2 | Components must be cloud-native |
-| ADR-3 | Micro-frontends pattern for UI |
-| ADR-4 | Sensitive medical data should be stored and processed on the certified 3rd party platforms |
-| ADR-5 | Zero-Trust Architecture |
-| ADR-6 | SaaS Omnichannel Provider as Messaging Gateway |
+| ADR-1 | [Microservices as the base architectural style](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-1%20Use%20the%20microservices%20as%20the%20base%20architectural%20style.md) |
+| ADR-2 | [Components must be cloud-native](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-2%20Each%20component%20must%20be%20cloud-native.md) |
+| ADR-3 | [Micro-frontends pattern for UI](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-3%20Use%20micro-frontends%20pattern%20for%20UI.md) |
+| ADR-4 | [Sensitive medical data should be stored and processed on the certified 3rd party platforms](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-4%20Sensitive%20medical%20data%20should%20be%20stored%20and%20processed%20on%20the%20certified%203rd%20party%20platforms.md) |
+| ADR-5 | [Zero-Trust Architecture](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-5%20Zero%20Trust%20Architecture.md) |
+| ADR-6 | [SaaS Omnichannel Provider as Messaging Gateway](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-6%20SaaS%20Omnichannel%20Provider%20as%20Messaging%20Gateway.md) |
 
 Application ADR-1 & ADR-2 can be reflected on more detailed diagrams.
 
@@ -257,3 +258,5 @@ This is  the next C4 level, which provide as with understanding of required modu
 Not all components are described well enought, but in general, we recommend using ADR's principles to design each of them.
 
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.ContainerDiagram.png)
+
+### Components Diagram
