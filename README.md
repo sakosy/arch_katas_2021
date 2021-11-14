@@ -221,12 +221,12 @@ On "TEST" environment: The number of instances has not been increased to 2 or ha
 
 | # | Description |
 |----|----|
-| ADR-1 | Microservices as the base architectural style |
-| ADR-2 | Components must be cloud-native |
-| ADR-3 | Micro-frontends pattern for UI |
-| ADR-4 | Sensitive medical data should be stored and processed on the certified 3rd party platforms |
-| ADR-5 | Zero-Trust Architecture |
-| ADR-6 | SaaS Omnichannel Provider as Messaging Gateway |
+| ADR-1 | [Microservices as the base architectural style](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-1%20Use%20the%20microservices%20as%20the%20base%20architectural%20style.md) |
+| ADR-2 | [Components must be cloud-native](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-2%20Each%20component%20must%20be%20cloud-native.md) |
+| ADR-3 | [Micro-frontends pattern for UI](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-3%20Use%20micro-frontends%20pattern%20for%20UI.md) |
+| ADR-4 | [Sensitive medical data should be stored and processed on the certified 3rd party platforms](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-4%20Sensitive%20medical%20data%20should%20be%20stored%20and%20processed%20on%20the%20certified%203rd%20party%20platforms.md) |
+| ADR-5 | [Zero-Trust Architecture](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-5%20Zero%20Trust%20Architecture.md) |
+| ADR-6 | [SaaS Omnichannel Provider as Messaging Gateway](https://github.com/sakosy/arch_katas_2021/blob/main/ADR/ADR-6%20SaaS%20Omnichannel%20Provider%20as%20Messaging%20Gateway.md) |
 
 Application ADR-1 & ADR-2 can be reflected on more detailed diagrams.
 
