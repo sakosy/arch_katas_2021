@@ -1,6 +1,6 @@
 ## The "Farmacy Family" System
 
--   [Team Elephant on Cycle](https://github.com/sakosy/arch_katas_2021#team-Elephant-on-Cycle)
+-   [Team Elephant on a Cycle](https://github.com/sakosy/arch_katas_2021#team-Elephant-on-Cycle)
 -   [Glossary](https://github.com/sakosy/arch_katas_2021#glossary)
 -   [Overview](https://github.com/sakosy/arch_katas_2021#overview)
 -   [Business Case and Goals](https://github.com/sakosy/arch_katas_2021#business-case-and-goals)
@@ -18,7 +18,7 @@
 	-   [Components Diagram](https://github.com/sakosy/arch_katas_2021#components-diagram)
 
 
-## Team Elephant on Cycle
+## Team: Elephant on a Cycle
 
 ![Team_Logo](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Elephant_on_Cycle.png)
 
