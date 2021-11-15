@@ -194,7 +194,7 @@ We should integrate fitness function measures into Continuous Delivery (CD) pipe
 
 **AR4**
 
-- * What we should measure?*
+- *What we should measure?*
 
 	FF4.1 Number of application instances grows up when the number of requests (users, integrated systems requests) grows up.
 
@@ -206,27 +206,27 @@ We should integrate fitness function measures into Continuous Delivery (CD) pipe
 
 - *How we can measure?*
 
-On the "TEST" environment:
+	On the "TEST" environment:
 
-Run HTTP Requests Generator to API from the "normal rate" (for example, 100 rpc) for just one instance and increase (for example, lineary each 10sec. multiply on 2) number of requests. After some iteratons (determine on practice) slow down generator in the same manner.
+	Run HTTP Requests Generator to API from the "normal rate" (for example, 100 rpc) for just one instance and increase (for example, lineary each 10sec. multiply on 2) number of requests. After some iteratons (determine on practice) slow down generator in the same manner.
 
-Measure the number of instances | pods (using k8s interface or service-discovery system).  
+	Measure the number of instances | pods (using k8s interface or service-discovery system).  
 
-On the both - "TEST" and "PROD" environments:
+	On the both - "TEST" and "PROD" environments:
 
-Measure Requests latency, HTTP Return Codes (200)
+	Measure Requests latency, HTTP Return Codes (200)
 
 - *How we know that something wrong?* 
 
-On **"TEST" & "PROD"** environments: 
+	On **"TEST" & "PROD"** environments: 
 
-Requests latency exceed required limits. 
+	Requests latency exceed required limits. 
 
-HTTP 200 Return Codes exceed required limits. 
+	HTTP 200 Return Codes exceed required limits. 
 
-On *"TEST"* environment: 
+	On *"TEST"* environment: 
 
-The number of instances has not been increased to 2 or has not been decreased to 1.
+	The number of instances has not been increased to 2 or has not been decreased to 1.
 
 ## Architecture Decision Records
 
