@@ -352,12 +352,12 @@ Not all components are described well enought, but in general, we recommend usin
 ### Components Diagrams
 There are some diagrams on Container Level (C4 level 3).
 
-Integration container
+- **Integration container**
 
 ![Container: API 4 Farmacy Foods](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Component%20-%20API%204%20FFoods.png)
 
-Reporting container
+- **Reporting container**
 
 ![Container: Reports App](https://github.com/sakosy/arch_katas_2021/blob/main/Images/C4JM_Component_Investors.png)
 
-
+*Complete list could be designed futher.*
