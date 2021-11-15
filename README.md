@@ -194,17 +194,17 @@ We should integrate fitness function measures into Continuous Delivery (CD) pipe
 
 **AR4**
 
-*- What we should measure?*
+- * What we should measure?*
 
-FF4.1 Number of application instances grows up when the number of requests (users, integrated systems requests) grows up.
+	FF4.1 Number of application instances grows up when the number of requests (users, integrated systems requests) grows up.
 
-FF4.2 Number of application instances fall down when the number of requests (users, integrated systems requests) falls down.
+	FF4.2 Number of application instances fall down when the number of requests (users, integrated systems requests) falls down.
 
-FF4.3 The Latency in any synchronous requests to any API/Data Store/Message Queue dos not exceeded 20% in 95% percentile in 5 min. intervals.
+	FF4.3 The Latency in any synchronous requests to any API/Data Store/Message Queue dos not exceeded 20% in 95% percentile in 5 min. intervals.
 
-FF4.4 The percentage of invalid responces (http code not equal 200) not exceeded 20% in 95% percentile in 5 min. intervals.
+	FF4.4 The percentage of invalid responces (http code not equal 200) not exceeded 20% in 95% percentile in 5 min. intervals.
 
-*- How we can measure?*
+- *How we can measure?*
 
 On the "TEST" environment:
 
@@ -216,11 +216,17 @@ On the both - "TEST" and "PROD" environments:
 
 Measure Requests latency, HTTP Return Codes (200)
 
-- How we know that something wrong? 
+- *How we know that something wrong?* 
 
-On "TEST" & "PROD" environments: Requests latency exceed required limits. HTTP 200 Return Codes exceed required limits. 
+On **"TEST" & "PROD"** environments: 
 
-On "TEST" environment: The number of instances has not been increased to 2 or has not been decreased to 1.
+Requests latency exceed required limits. 
+
+HTTP 200 Return Codes exceed required limits. 
+
+On *"TEST"* environment: 
+
+The number of instances has not been increased to 2 or has not been decreased to 1.
 
 ## Architecture Decision Records
 
