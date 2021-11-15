@@ -165,10 +165,12 @@ There is a list of all stakeholders for the _Farmacy Family_
 FR-1,3,4,6,11,12,21 related to Farmacy Foods integration, Engaged Customer additional activities and weren't shown in our project. 
 
 ### Architecture Characteristics Requirements
-- **AR1 Scalability** We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9).
-- **AR2 Security** We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR-10, FR-13).
-- **AR3 Domain partitioning** We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10).
-- **AR4 Elasticity** The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals.
+| # | Title | Requirement |
+|----|----|----|
+| AR1 | Scalability         | We should care about potential growth of analytical data and communication history volume (FR-5, FR-8, FR-9). |
+| AR2 | Security            | We have to operate with customer's private medical profiles. So, this type of data must be processed securely (FR-10, FR-13). |
+| AR3 | Domain partitioning | We need to build independent domain areas by requirements: onboarding, community, integration. Each of them can be implemented independently (FR-5, FR-8, FR-9, FR-10). |
+| AR4 | Elasticity          | The engagement could increase a number of customers drastically, so we should be able to start from just dozens of users and process up to thousands without any lacks. This follows from the system goals. |
 
 ### Fitness Functions
 
