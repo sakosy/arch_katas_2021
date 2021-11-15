@@ -131,6 +131,8 @@ There is a list of all stakeholders for the _Farmacy Family_
 | ASM-6 | Community may includes customers with same diet |
 | ASM-7 | Dietitians will guide classes and any other education |
 | ASM-8 | Improve the distribution and potential food waste from having the wrong mix of foods in a particular fridge - this is a task for Farmacy Foods, not Family: It manages the Product Catalog, it can manages Product compatibility card. |
+| ASM-9 | For Communications with Customers Dietitians, Farmacy Food & Family Operators would use Farmacy Family App. Customers would use original apps of channels  |
+| ASM-10 | For Classes & Eductional materials we can use MOOC |
 
 ## System Requirements
 
