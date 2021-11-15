@@ -57,7 +57,7 @@ FFamily is an enhancement of the existing FFoods system deals with:
 
 FFamily should add tighter engagement with the customers.
 
-FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's possible to submit requirements to FFoods).
+FFoods has been designed before, but not developed yet (we play in the "brown fields", and it's **possible to submit requirements to FFoods**).
 
 FFamily needs to be aware of seamless integration with FFoods.
 
@@ -81,8 +81,8 @@ The desired solution from the functional perspective:
 
 ![Marketecture](https://github.com/sakosy/arch_katas_2021/blob/main/Images/marketecture.png)
 
-FFoods + FFamily will provide a way to create an infinity customer journey on both systems.
-It should be possible to increase Customer Lifetime Value (CLV), FFoods income and get more investors based on better analytics.
+FFoods + FFamily will provide a way to **create an infinity customer journey** on both systems.
+It should be possible to increase **Customer Lifetime Value (CLV)**, FFoods income and get more investors based on better analytics.
 
 ## Stakeholders
 
