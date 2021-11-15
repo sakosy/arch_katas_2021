@@ -186,13 +186,92 @@ We will use the following pattern to determine Fithess Function for each AR:
 
 We should integrate fitness function measures into Continuous Delivery (CD) pipelines on the "TEST" stand. Also, we can monitor some of them on "PROD" stand.
 
-**AR1**
+**AR1 Scalability**
 
-**AR2**
+- *What we should measure?*
 
-**AR3**
+	FF1.1 The Latency in any synchronous requests to any API/Data Store/Message Queue does not exceeded 20% from the "normal latency" in 95% percentile in 5 min. intervals.
 
-**AR4**
+	FF1.2 The percentage of invalid responces (http code not equal 200) not exceeded 0.1% in 95% percentile in 5 min. intervals.
+	
+	FF1.3 The end-to-end latency for each process does not exceeded 20% from the "normal latency" in 95% percentile in 5 min. intervals.
+
+- *How we can measure?*
+
+	On the "TEST" environment:
+
+	Run HTTP Requests Generator to API from the "normal rate" (for example, 100 rpc) for just one instance and increase (for example, lineary each 10sec. multiply on 2) number of requests. After some iteratons (determine on practice) slow down generator in the same manner.  
+
+	On the both - "TEST" and "PROD" environments:
+
+	Measure Requests latency, HTTP Return Codes (200), Provide end-to-end observability (unique trace_id etc.) for each process.
+
+- *How we know that something wrong?* 
+
+	On **"TEST" & "PROD"** environments: 
+
+	Requests latency exceed required limits. 
+
+	HTTP 200 Return Codes exceed required limits.
+
+	End-to-end Requests latency exceed required limits.
+
+
+**AR2 Security**
+
+- *What we should measure?*
+
+	FF2.1 The are no sensitive information (medical data, passwords, personal data) in any logs.
+
+	FF2.2 Each call to the Security Component is logged.
+	
+	FF2.3 Each call to 3-d party medical platform uses specialized transport protocol.
+	
+	FF2.4 Each call to HTTP API uses TLS (https).
+	
+	FF2.5 Each security token has expiration time. After the expiration token become invalid and require new authentication procedure.
+
+- *How we can measure?*
+
+	On the "TEST" environment: 
+	
+	Setup minimum token expiration time. Make authentication call. Wait for the expiration time and try to make a valid call. Count the number of "succeeded" calls.
+
+	On the both - "TEST" and "PROD" environments:
+
+	Periodically (once per day) scan logs using some search patterns. Count the number of matches.
+	
+	Count the number of Security components call and count of log records respectively.
+	
+	Count the number of request to medical platform with any other protocols than specialized.
+
+- *How we know that something wrong?* 
+
+	Each metrics must return 0. Any other value - must be treated as security incident.
+
+**AR3 Domain partitioning**
+
+- *What we should measure?*
+
+	FF3.1 The are no directly usages of components from one domain to another. Each call is accessible through API only.
+
+	FF3.2 In case of service failure in one domain, another domain services continue to process requests.
+	
+	FF3.3 Different Domain's services could be deployed independently.
+
+- *How we can measure?*
+
+	On the "TEST" environment or CI process:
+	
+	Use static code analysers in CI processes. 
+	
+	Deploy different domain services independently step-by-step and run integration tests after each iteration.
+
+- *How we know that something wrong?* 
+
+	Tests doesn't passes.
+
+**AR4 Elasticity**
 
 - *What we should measure?*
 
@@ -200,9 +279,9 @@ We should integrate fitness function measures into Continuous Delivery (CD) pipe
 
 	FF4.2 Number of application instances fall down when the number of requests (users, integrated systems requests) falls down.
 
-	FF4.3 The Latency in any synchronous requests to any API/Data Store/Message Queue dos not exceeded 20% in 95% percentile in 5 min. intervals.
+	FF4.3 The Latency in any synchronous requests to any API/Data Store/Message Queue does not exceeded 20% from the "normal latency" in 95% percentile in 5 min. intervals.
 
-	FF4.4 The percentage of invalid responces (http code not equal 200) not exceeded 20% in 95% percentile in 5 min. intervals.
+	FF4.4 The percentage of invalid responces (http code not equal 200) does not exceeded 0.1% in 95% percentile in 5 min. intervals.
 
 - *How we can measure?*
 
@@ -220,7 +299,7 @@ We should integrate fitness function measures into Continuous Delivery (CD) pipe
 
 	On **"TEST" & "PROD"** environments: 
 
-	Requests latency exceed required limits. 
+	Requests latency exceeds required limits. 
 
 	HTTP 200 Return Codes exceed required limits. 
 
