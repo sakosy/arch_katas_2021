@@ -29,7 +29,7 @@
 [Sergey](https://www.linkedin.com/mwlite/in/sergey-kosyy-275265198), 
 [Natalya](https://www.linkedin.com/mwlite/in/nmkh), 
 [Sattar](https://www.linkedin.com/mwlite/in/sattar-gyulmamedov-0a1163), 
-Samvel
+[Samvel](https://www.linkedin.com/in/samvel-mkhitaryan-ab081616a/)
 
 **Who we are:** We are colleagues from the largest Telco company in Russia. We are passionate in Big Data technologies on the different positions: Architects, Product Owners, Developers. We are working with Petabyte-scale clusters, hundreeds of servers and thousends of ETL/ML/SQL tasks. We are trying to make our best to make future better than ever before. We are happy to present you our solution below.
 
