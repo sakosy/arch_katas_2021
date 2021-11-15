@@ -262,4 +262,4 @@ Not all components are described well enought, but in general, we recommend usin
 
 ### Components Diagrams
 
-- ![Container: API 4 Farmacy Foods](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Component%20-%20API%204%20FFoods.png)
+![Container: API 4 Farmacy Foods](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Component%20-%20API%204%20FFoods.png)
