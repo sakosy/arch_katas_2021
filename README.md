@@ -27,7 +27,7 @@
 **Team Members** 
 
 [Sergey](https://www.linkedin.com/mwlite/in/sergey-kosyy-275265198), 
-[Natalya](https://www.linkedin.com/mwlite/in/nmkh), 
+[Natalia](https://www.linkedin.com/mwlite/in/nmkh), 
 [Sattar](https://www.linkedin.com/mwlite/in/sattar-gyulmamedov-0a1163), 
 [Samvel](https://www.linkedin.com/in/samvel-mkhitaryan-ab081616a/)
 
