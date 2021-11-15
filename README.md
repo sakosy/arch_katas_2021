@@ -344,13 +344,20 @@ You can see interactions between Farmacy Family and other actors (stakeholders).
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.System_Context.png)
 
 ### Container Diagram
-This is  the next C4 level, which provide as with understanding of required modules and communication protocols between them.
+This is  the next diagram (C4 level 2), which provide as with understanding of required modules and communication protocols between them.
 Not all components are described well enought, but in general, we recommend using ADR's principles to design each of them.
 
 ![System Context](https://github.com/sakosy/arch_katas_2021/blob/main/Images/FF-C4.ContainerDiagram.png)
 
 ### Components Diagrams
+There are some diagrams on Container Level (C4 level 3).
+
+Integration container
 
 ![Container: API 4 Farmacy Foods](https://github.com/sakosy/arch_katas_2021/blob/main/Images/Component%20-%20API%204%20FFoods.png)
 
+Reporting container
+
 ![Container: Reports App](https://github.com/sakosy/arch_katas_2021/blob/main/Images/C4JM_Component_Investors.png)
+
+
